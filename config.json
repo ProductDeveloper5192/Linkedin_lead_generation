@@ -1,0 +1,29 @@
+{
+    "search_keywords": [
+        "hiring",
+        "we are hiring",
+        "looking for",
+        "job opening",
+        "open position",
+        "join our team",
+        "opportunity"
+    ],
+    "job_titles": [
+        "mobile developer",
+        "app developer",
+        "iOS developer",
+        "android developer",
+        "flutter developer",
+        "react native developer"
+    ],
+    "max_results": 50,
+    "delay_between_requests_seconds": 2,
+    "headless": false,
+    "geolocation": {
+        "latitude": 52.3676,
+        "longitude": 4.9041,
+        "accuracy": 100
+    },
+    "timezone": "Europe/Amsterdam",
+    "locale": "nl-NL"
+}
